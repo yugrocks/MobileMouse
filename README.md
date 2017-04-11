@@ -5,3 +5,6 @@ This project consists of a backend server made in python and it uses sockets to 
 required libraries in python:
     $pip install win32con
     $pip install win32api
+run:
+
+$python MobileMouse
