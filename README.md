@@ -13,3 +13,11 @@ Windows server side exe file(installable) here:
 https://drive.google.com/open?id=0B8Id8pGp8lAGWmJkVHNnejRuYVE
 Android app Here:
 https://drive.google.com/open?id=0B8Id8pGp8lAGVXMtWTZrSkRPWUE
+
+
+One more Step:
+  You have to set the IP address of your PC in the settings of the MobileMouse android app.
+  To do that, go to cmd, type command:
+     $ipconfig
+     
+The ip address is the value of IPv4 address key.
