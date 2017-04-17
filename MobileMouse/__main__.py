@@ -56,18 +56,15 @@ def start_checking_for_response():
 
 def getInt(string):
         c=[];d=[]
-        for _ in string.split(","):
-          try:
-            c.append( int(_.split(".")[0]))
-          except:
-            continue
-        for k in range(0,len(c),2):
-
+        spl=string.split(",")
+        n=len(spl)
+        for k in range(0,n,2):
             try:
-              d.append((c[k],c[k+1]))
+              d.append((int(float(spl[k])),int(float(spl[k+1]))))
             except:
               continue
         return d
+
 
 
 def processResponse(a):
