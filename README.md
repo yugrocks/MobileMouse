@@ -6,6 +6,11 @@
 A aimple android app that acts as a remote mouse and also as a keyboard (functionality added in v1.5) for your PC (windows only). 
 This project consists of a backend server made in python and it uses sockets to connect to the android app. Security vulnerabilities can be addressed and dealt with very easily(for example using SSL security for sockets).
 
+![alt tag](https://raw.githubusercontent.com/yugrocks/MobileMouse/master/mouse.gif)
+![alt tag](https://raw.githubusercontent.com/yugrocks/MobileMouse/master/mouseServer.gif)
+
+
+
 required libraries in python:
     $pip install win32con
     $pip install win32api
