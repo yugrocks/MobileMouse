@@ -10,9 +10,5 @@
            android:orderInCategory="100"
            app:showAsAction="never"/>
 
-     <item android:id="@+id/mouse_simulator"
-         android:title="Mouse"
-         android:orderInCategory="1"
-         app:showAsAction="never"/>
-
+     
 </menu>
