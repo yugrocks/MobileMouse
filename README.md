@@ -3,7 +3,7 @@
 ****Note: it's a part of my AI assistant VINI, and some parts(files) of this app have been removed. The main activity belonged to the functionality of VINI app, of which the MobileMouse is a subset. Those files have been removed.****
 
 
-A aimple android app that acts as a remote mouse and also as a keyboard (functionality added in v1.5) for your PC (windows only). 
+A simple android app that acts as a remote mouse and also as a keyboard (functionality added in v1.5) for your PC (windows only). 
 This project consists of a backend server made in python and it uses sockets to connect to the android app. Security vulnerabilities can be addressed and dealt with very easily(for example using SSL security for sockets).
 
 ![alt tag](https://raw.githubusercontent.com/yugrocks/MobileMouse/master/mouse.gif)
