@@ -1,5 +1,7 @@
 # MobileMouse
 
+<a href="https://unisp.tech">Check out for cool projects about drones and AI</a><br>
+
 ****Note: it's a part of my AI assistant VINI, and some parts(files) of this app have been removed. The main activity belonged to the functionality of VINI app, of which the MobileMouse is a subset. Those files have been removed.****
 
 
